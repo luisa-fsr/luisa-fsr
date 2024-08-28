@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @luisa-fsr
-- 👀 I’m interested in reading
-- 🌱 I’m currently learning ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in reading and coding
 
 <!---
 luisa-fsr/luisa-fsr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
